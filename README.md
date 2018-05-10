@@ -9,7 +9,7 @@ purposes with proper attribution:
   for deep learning](https://arxiv.org/abs/1603.07285)
   ([BibTeX](https://gist.github.com/fvisin/165ca9935392fa9600a6c94664a01214))
 
-## Convolution animations
+## Convolution animations 正常卷积
 
 _N.B.: Blue maps are inputs, and cyan maps are outputs._
 
@@ -40,7 +40,7 @@ _N.B.: Blue maps are inputs, and cyan maps are outputs._
   </tr>
 </table>
 
-## Transposed convolution animations
+## Transposed convolution animations 反卷积
 
 _N.B.: Blue maps are inputs, and cyan maps are outputs._
 
@@ -71,7 +71,7 @@ _N.B.: Blue maps are inputs, and cyan maps are outputs._
   </tr>
 </table>
 
-## Dilated convolution animations
+## Dilated convolution animations 空洞卷积
 
 _N.B.: Blue maps are inputs, and cyan maps are outputs._
 
